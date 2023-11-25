@@ -1,0 +1,28 @@
+body {
+    width: auto;
+    height: 110vh;
+    background-color: black;
+}
+
+.button {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(button.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+    
+}
+
+.button:hover{
+    animation: countdown ;
+    /* background-color: red; */
+    /* background-image: url(countdown-timer-itch-0tkuspm4bf5bobss.gif); */
+    background-image: url(timr.gif);
+    /* background-color: red; */
+
+
+}
+
+
